@@ -7,30 +7,30 @@ int main()
 
 	if (a != 10)
 	{
-		printf("if a != 10¹® ½ÇÇà\n");
+		printf("if a != 10ë¬¸ ì‹¤í–‰\n");
 	}
 
 	if (!b)
 	{
-		printf("if !b¹® ½ÇÇà\n");
+		printf("if !bë¬¸ ì‹¤í–‰\n");
 	}
 
 	if (!c)
 	{
-		printf("if !c¹® ½ÇÇà\n");
+		printf("if !cë¬¸ ì‹¤í–‰\n");
 	}
 
 	if (a && b)
 	{
-		printf("if a && b¹® ½ÇÇà\n");
+		printf("if a && bë¬¸ ì‹¤í–‰\n");
 	}
 
 	if (d || c)
 	{
-		printf("if d || c¹® ½ÇÇà\n");
+		printf("if d || cë¬¸ ì‹¤í–‰\n");
 	}
 
-	if (d)  // ¸î ¹øÂ° ¹®ÀåÀÌ ½ÇÇàµÉ±î?
+	if (d)  // ëª‡ ë²ˆì§¸ ë¬¸ì¥ì´ ì‹¤í–‰ë ê¹Œ?
 	{
 		printf("1\n");
 	}
@@ -55,10 +55,9 @@ int main()
 		printf("5\n");
 	}
 
-
 	return 0;
 }
 
 // https://www.acmicpc.net/problem/1330
 // https://www.acmicpc.net/problem/9498
-// https://www.acmicpc.net/problem/2753 Á¶±İ ¾î·Á¿ò
+// https://www.acmicpc.net/problem/2753 ì¡°ê¸ˆ ì–´ë ¤ì›€
